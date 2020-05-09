@@ -1,0 +1,5 @@
+psutil
+babel
+
+[tk<8.6.0]
+Pillow

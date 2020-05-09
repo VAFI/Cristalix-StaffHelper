@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+changelog
+setup.cfg
+setup.py
+tkfontchooser.py
+tkfontchooser.egg-info/PKG-INFO
+tkfontchooser.egg-info/SOURCES.txt
+tkfontchooser.egg-info/dependency_links.txt
+tkfontchooser.egg-info/top_level.txt
